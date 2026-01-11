@@ -8,5 +8,3 @@ praw==7.7.1
 vaderSentiment==3.3.2
 textblob==0.17.1
 httpx==0.25.1
-langchain-core==0.1.0
-langchain-ollama==0.0.1
