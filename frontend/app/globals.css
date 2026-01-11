@@ -1,0 +1,19 @@
+/* eslint-disable */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+  min-height: 100vh;
+}
+
+@layer utilities {
+  .gold-glow {
+    box-shadow: 0 0 20px rgba(212, 146, 29, 0.3);
+  }
+  
+  .gold-text-glow {
+    text-shadow: 0 0 10px rgba(212, 146, 29, 0.5);
+  }
+}
