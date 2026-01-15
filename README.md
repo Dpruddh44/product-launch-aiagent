@@ -1,6 +1,5 @@
 # Product Launch Intelligence Platform 🚀
 
-![Hero Banner](https://via.placeholder.com/1200x400/1a1a2e/ffd700?text=Product+Launch+Intelligence+Platform)
 
 **AI-powered market intelligence platform that analyzes product launches across social platforms using advanced sentiment analysis and web scraping agents.**
 
@@ -52,4 +51,5 @@
 ---
 
 ## 🗂️ **Project Structure**
+
 
